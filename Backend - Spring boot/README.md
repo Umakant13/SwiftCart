@@ -33,7 +33,6 @@ All protected endpoints require the `Authorization` header with a valid token.
   }
   ```
 - **Responses**:
-  - 200 OK
     ```json
     {
       "$ref": "#/components/schemas/CartItem"
@@ -50,7 +49,6 @@ All protected endpoints require the `Authorization` header with a valid token.
 - **Request Headers**:
   - `Authorization` (string, required)
 - **Responses**:
-  - 200 OK
     ```json
     {
       "$ref": "#/components/schemas/ApiResponse"
@@ -71,7 +69,6 @@ All protected endpoints require the `Authorization` header with a valid token.
   }
   ```
 - **Responses**:
-  - 200 OK
     ```json
     {
       "$ref": "#/components/schemas/ApiResponse"
@@ -108,11 +105,11 @@ All protected endpoints require the `Authorization` header with a valid token.
 
 ## Contact
 
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
+For any queries or issues, please contact **Ashok Zarmariya** at `umakantdodtalle0@gmail.com`.
 
 ## License
 
-This API is licensed under **Ashok Zarmariya**.
+This API is licensed under **Umakant Dodtalle**.
 
 
 
